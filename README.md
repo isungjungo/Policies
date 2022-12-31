@@ -1,160 +1,123 @@
- Personal information Processing
-
-
-!Roomartist! ('https://github.com/isungjungo/Policies' hereinafter 'niceshot') establishes and discloses personal information processing policies as follows to protect the personal information of the information subject and to handle related grievances quickly and smoothly under Article 30 of the Personal Information Protection Act.
-
-○ This personal information processing policy will be applied from July 18, 2021.
-
-
-Article 1 (Personal Information Processing Purpose) !Roomartist! ('https://github.com/isungjungo/Policies' hereinafter 'niceshot') processes personal information for the following purposes: The personal information being processed is not used for any purpose other than the following purposes, and if the purpose of use is changed, necessary measures such as obtaining separate consent under Article 18 of the Personal Information Protection Act will be implemented.
-1. Member registration and management of the website
-"We process personal information for the purpose of confirming the intention of membership, identifying and certifying ourselves according to the provision of membership services, and preventing fraudulent use of services."
-Article 2 (Period of Processing and Retention of Personal Information)
-!Roomartist! processes and holds personal information within the period of possession and use of personal information that is agreed upon when collecting personal information from the information subject under the Act.
-The processing and retention period of each personal information is as follows.
-Collection of personal information relating to.Hold for the purpose of the above use from the date of consent for use.It will be used.
-Grounds for retention: Member registration
-Related Acts and subordinate statutes:
-Reason for exception:
-Article 3 (Rights and Obligations of Information Subjects and statutory representatives and methods of exercise thereof)
-The information subject may exercise the right of Roomartist to view, correct, delete, or suspend the processing of personal information at any time.
-"2. The exercise of rights under paragraph (1) may be conducted in writing, e-mail, or FAX pursuant to Article 41 (1) of the Enforcement Decree of the Personal Information Protection Act, and the Roomartist will take measures without delay."
- The exercise of rights under paragraph (1) may be conducted through an agent, such as the legal representative of the information subject or a person entrusted.In such cases, "Notification on the Method of Processing Personal Information (No. 2020-7)" You need to submit a power of attorney in attached Form 11.
- Requests for the suspension of perusal and processing of personal information may restrict the right of the information subject pursuant to Articles 35 (4) and 37 (2) of the Personal Information Protection Act."
- A request for correction or deletion of personal information shall not be requested if the personal information is specified in other Acts and subordinate statutes.
-The Roomartist shall verify whether the person who has requested perusal, correction or deletion, or perusal in the event of suspension of processing is himself/herself or a legitimate agent according to the right of the information subject."
-Article 4 (Preparation of items of personal information processed)
-!Roomartist! processes the following personal information items:
-1!Roomartist!  and managing membership of the website 
-Required: Email
-Selections:
-Article 5 (Destruction of Personal Information)
-" !Roomartist! shall destroy personal information without delay when personal information becomes unnecessary, such as the passage of the period of personal information retention and the achievement of the purpose of processing."
-"2. If the personal information period agreed by the information subject has expired or the purpose of processing has been achieved, the personal information shall be transferred to a separate database (DB) or stored in a different place."
-1. Statutory grounds:
-2. Preserving personal information items: Email
- Procedures and methods for destroying personal information are as follows.
-1. Destruction procedure
-"!Roomartist! selects personal information for which the cause of destruction has occurred, and destroys personal information with the approval of the person in charge of personal information protection of !Roomartist!.
-2. Destruction method
-Information in the form of electronic files uses technical methods that cannot play records.
-Article 6 (Measures for Securing the Safety of Personal Information)
-!Roomartist! is taking the following steps to ensure the safety of personal information.
-1. Conduct regular self-audit
-We conduct self-audit regularly (once a quarter) to secure stability related to the handling of personal information.
-Article 7 (Installation of a Privacy Auto-Gathering Device?Matters concerning operation and rejection)
-Roomartist does not use 'cookies' to store and recall information about the subject.
-Article 8 (Personal Information Protection Officer)
-" R Roomartist is responsible for personal information processing, and designates a person in charge of personal information protection as follows to handle complaints and remedy damages related to personal information processing."
-▶ Person in charge of personal information protection
-Name: Han Geun-seop
-Position: Representative
-Position: Representative
-"Contact: 01054056376, han04172@hanmail.net,"
-※ Connects to the department in charge of personal information protection.
-▶ Department in charge of personal information protection
-Department name:
-Contact:
-"Contact: ,"
-" The person in charge of personal information protection and the department in charge may inquire about all personal information protection inquiries, complaints handling, damage relief, etc. that occurred while using Roomartist's service (or business). The Roomartist will answer and deal with inquiries from the information subjects without delay."
-Article 9 (Request for access to personal information)
-What is the subject of the information? A request for perusal of personal information under Article 35 may be made to the department below.
-!Roomartist! will try to expedite requests for access to personal information by the information subject.
-▶ Receipt and processing department for perusal of personal information
-Department name:
-Contact:
-"Contact: ,"
-Article 10 (How to remedy infringement of rights)
-"In order to receive relief from personal information infringement, the information subject may apply for dispute resolution, counseling, etc. to the Personal Information Dispute Mediation Committee, the Korea Internet & Security Agency's Personal Information Infringement Report Center, etc." Please contact the following institutions for reports and counseling on other personal information violations."
-1. Personal Information Dispute Mediation Committee: (without country code) 1833-6972 (www.kopico.go.kr)
-2. Personal information infringement report center: (without country code) 118 (privacy.kisa.or.kr)
-3. Supreme Prosecutors' Office: (without country code) 1301 (www.spo.go.kr)
-4. National Police Agency: (without country code) 182 (cyberbureau.police.go.kr)
-"A person who has been violated by the head of a public institution due to disposition or non-action made by the head of a public institution on a request under Article 35 (Personal Information perusal), Article 36 (Correction or Deletion of Personal Information, etc.) may request an administrative trial."
-※ For more information on administrative appeals, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).
-Article 11 (Change of Privacy Policy)
-This privacy policy will be applied from July 18, 2021.
-
-
-
-
-
-
-개인정보처리방침			
-			
-			
-< Room artist >('https://github.com/isungjungo/Policies'이하 'niceshot')은(는) 「개인정보 보호법」 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리방침을 수립·공개합니다.			
-			
-○ 이 개인정보처리방침은 2021년 7월 18부터 적용됩니다.			
-			
-			
-제1조(개인정보의 처리 목적) < Room artist >('https://github.com/isungjungo/Policies')은(는) 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며 이용 목적이 변경되는 경우에는 「개인정보 보호법」 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.			
-1. 홈페이지 회원가입 및 관리			
-"회원 가입의사 확인, 회원제 서비스 제공에 따른 본인 식별·인증, 서비스 부정이용 방지 목적으로 개인정보를 처리합니다."			
-제2조(개인정보의 처리 및 보유 기간)			
-① < Room artist >은(는) 법령에 따른 개인정보 보유·이용기간 또는 정보주체로부터 개인정보를 수집 시에 동의받은 개인정보 보유·이용기간 내에서 개인정보를 처리·보유합니다.			
-② 각각의 개인정보 처리 및 보유 기간은 다음과 같습니다.			
-1			
-와 관련한 개인정보는 수집.이용에 관한 동의일로부터까지 위 이용목적을 위하여 보유.이용됩니다.			
-보유근거 : 회원 등록			
-관련법령 :			
-예외사유 :			
-제3조(정보주체와 법정대리인의 권리·의무 및 그 행사방법)			
-① 정보주체는 Room artist에 대해 언제든지 개인정보 열람·정정·삭제·처리정지 요구 등의 권리를 행사할 수 있습니다.			
-"② 제1항에 따른 권리 행사는Room artist에 대해 「개인정보 보호법」 시행령 제41조제1항에 따라 서면, 전자우편, 모사전송(FAX) 등을 통하여 하실 수 있으며 Room artist은(는) 이에 대해 지체 없이 조치하겠습니다."			
-③ 제1항에 따른 권리 행사는 정보주체의 법정대리인이나 위임을 받은 자 등 대리인을 통하여 하실 수 있습니다.이 경우 “개인정보 처리 방법에 관한 고시(제2020-7호)” 별지 제11호 서식에 따른 위임장을 제출하셔야 합니다.			
-"④ 개인정보 열람 및 처리정지 요구는 「개인정보 보호법」 제35조 제4항, 제37조 제2항에 의하여 정보주체의 권리가 제한 될 수 있습니다."			
-⑤ 개인정보의 정정 및 삭제 요구는 다른 법령에서 그 개인정보가 수집 대상으로 명시되어 있는 경우에는 그 삭제를 요구할 수 없습니다.			
-"⑥ Room artist은(는) 정보주체 권리에 따른 열람의 요구, 정정·삭제의 요구, 처리정지의 요구 시 열람 등 요구를 한 자가 본인이거나 정당한 대리인인지를 확인합니다."			
-제4조(처리하는 개인정보의 항목 작성) 			
-① < Room artist >은(는) 다음의 개인정보 항목을 처리하고 있습니다.			
-1< 홈페이지 회원가입 및 관리 >			
-필수항목 : 이메일			
-선택항목 :			
-제5조(개인정보의 파기)			
-"① < Room artist > 은(는) 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다."			
-"② 정보주체로부터 동의받은 개인정보 보유기간이 경과하거나 처리목적이 달성되었음에도 불구하고 다른 법령에 따라 개인정보를 계속 보존하여야 하는 경우에는, 해당 개인정보를 별도의 데이터베이스(DB)로 옮기거나 보관장소를 달리하여 보존합니다."			
-1. 법령 근거 :			
-2. 보존하는 개인정보 항목 : 이메일			
-③ 개인정보 파기의 절차 및 방법은 다음과 같습니다.			
-1. 파기절차			
-"< Room artist > 은(는) 파기 사유가 발생한 개인정보를 선정하고, < Room artist > 의 개인정보 보호책임자의 승인을 받아 개인정보를 파기합니다."			
-2. 파기방법			
-전자적 파일 형태의 정보는 기록을 재생할 수 없는 기술적 방법을 사용합니다			
-제6조(개인정보의 안전성 확보 조치)			
-< Room artist >은(는) 개인정보의 안전성 확보를 위해 다음과 같은 조치를 취하고 있습니다.			
-1. 정기적인 자체 감사 실시			
-개인정보 취급 관련 안정성 확보를 위해 정기적(분기 1회)으로 자체 감사를 실시하고 있습니다.			
-제7조(개인정보 자동 수집 장치의 설치?운영 및 거부에 관한 사항)			
-Room artist 은(는) 정보주체의 이용정보를 저장하고 수시로 불러오는 ‘쿠키(cookie)’를 사용하지 않습니다.			
-제8조 (개인정보 보호책임자) 			
-"① Room artist 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다."			
-▶ 개인정보 보호책임자			
-성명 :한근섭			
-직책 :대표			
-직급 :대표			
-"연락처 :01054056376, han04172@hanmail.net,"			
-※ 개인정보 보호 담당부서로 연결됩니다.			
-▶ 개인정보 보호 담당부서			
-부서명 :			
-담당자 :			
-"연락처 :, ,"			
-"② 정보주체께서는 Room artist 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. Room artist 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다."			
-제9조(개인정보 열람청구)			
-정보주체는 ?개인정보 보호법? 제35조에 따른 개인정보의 열람 청구를 아래의 부서에 할 수 있습니다.			
-< Room artist >은(는) 정보주체의 개인정보 열람청구가 신속하게 처리되도록 노력하겠습니다. 			
-▶ 개인정보 열람청구 접수·처리 부서			
-부서명 :			
-담당자 :			
-"연락처 : , ,"			
-제10조(권익침해 구제방법)			
-"정보주체는 개인정보침해로 인한 구제를 받기 위하여 개인정보분쟁조정위원회, 한국인터넷진흥원 개인정보침해신고센터 등에 분쟁해결이나 상담 등을 신청할 수 있습니다. 이 밖에 기타 개인정보침해의 신고, 상담에 대하여는 아래의 기관에 문의하시기 바랍니다."			
-1. 개인정보분쟁조정위원회 : (국번없이) 1833-6972 (www.kopico.go.kr)			
-2. 개인정보침해신고센터 : (국번없이) 118 (privacy.kisa.or.kr)			
-3. 대검찰청 : (국번없이) 1301 (www.spo.go.kr)			
-4. 경찰청 : (국번없이) 182 (cyberbureau.police.go.kr)			
-"「개인정보보호법」제35조(개인정보의 열람), 제36조(개인정보의 정정·삭제), 제37조(개인정보의 처리정지 등)의 규정에 의한 요구에 대 하여 공공기관의 장이 행한 처분 또는 부작위로 인하여 권리 또는 이익의 침해를 받은 자는 행정심판법이 정하는 바에 따라 행정심판을 청구할 수 있습니다."			
-※ 행정심판에 대해 자세한 사항은 중앙행정심판위원회(www.simpan.go.kr) 홈페이지를 참고하시기 바랍니다.			
-제11조(개인정보 처리방침 변경)			
-① 이 개인정보처리방침은 2021년 7월 18부터 적용됩니다.			
-			
+ 개인정보처리방침{"\n"}
+              {"\n"}
+              "XEEDMINING”은 "정보통신망 이용촉진 및 정보보호에 관한 법률",
+              “개인정보보호법”, "통신비밀보호법", "전기통신사업법" 및
+              “전자상거래 등에서의 소비자 보호에 관한 법률” 등
+              정보통신서비스제공자가 준수하여야 할 관련 법령상의 개인정보보호
+              규정을 준수하며, 관련 법령에 의거한 개인정보처리방침을 정하여
+              이용자 권익 보호에 최선을 다하겠습니다. XEEDMINING은 이용자의
+              개인정보를 [개인정보의 수집목적]에서 고지한 범위 내에서 사용하며,
+              이용자의 사전 동의 없이는 동 범위를 초과하여 이용하거나 원칙적으로
+              이용자의 개인정보를 외부에 제공 또는 위탁하지 않습니다. 다만,
+              아래의 경우에는 예외로 합니다.{"\n"}
+              {"\n"}
+              -이용자가 사전에 동의한 경우(이용자가 사전에 동의한 경우란, 서비스
+              이용 등을 위하여 이용자가 자발적으로 자신의 개인정보를 제3자에게
+              제공하는 것에 동의하는 것을 의미합니다.){"\n"}
+              -법령의 규정에 의거하거나, 수사 목적으로 법령에 정해진 절차와
+              방법에 따라 수사기관의 요구가 있는 경우{"\n"}
+              {"\n"}
+              이러한 경우에도, XEEDMINING은 이용자에게 (1) 개인정보를 제공받는
+              자 (2) 그의 이용목적을 사전에 고지하고 이에 대해 명시적·개별적으로
+              동의를 얻습니다. 이와 같은 모든 과정에 있어서 XEEDMINING은
+              이용자의 의사에 반하여 추가적인 정보를 수집하거나, 동의의 범위를
+              벗어난 정보를 제3자와 공유하지 않습니다.{"\n"}
+              {"\n"}· 개인정보 활용처 XEEDMINING은 아래와 같은 활용 목적을
+              가지고 이용자 개인정보를 수집합니다. -서비스의 기본 기능이나
+              특화된 기능을 제공 -개별적 공지 필요시 -서비스 이용과 관련하여
+              문의나 분쟁의 해결 -서비스 이용 -맞춤형 서비스 제공 -각종 이벤트나
+              광고성 정보의 제공 -법령 등에 규정된 의무의 이행 -법령이나
+              이용약관에 반하여 여러분에게 피해를 줄 수 있는 잘못된 이용행위의
+              방지{"\n"}
+              {"\n"}· 수집하는 개인정보 -휴대폰 번호 -거래 계좌번호 -앱 내 채팅
+              기능을 사용한 채팅 내용 -이용자 이름(닉네임) -프로필 사진
+              -사진(메타정보 포함) -단말기 정보(OS, 화면사이즈, 디바이스
+              아이디), IP주소, 쿠키 정보 -이름, 휴대폰 번호, 주소, 결제, 취소,
+              환불과 같은 출장정보 -서비스 이용과정에서 이용자가 작성하는 게시물
+              기타 콘텐츠 등 정보, 사용하는 기능, 수행하는 행동이나 활동 시간,
+              빈도 및 기간 등{"\n"}· 개인정보를 수집하는 방법 XEEDMINING은
+              다음과 같은 방법을 통해 개인정보를 수집합니다. -회원가입 및 서비스
+              이용 과정에서 이용자가 개인정보 수집에 대해 동의를 하고 직접
+              정보를 입력하는 경우 -거래 과정에서 이용자가 입력하는 휴대번호,
+              계좌번호 -제휴 서비스 또는 단체 등으로부터 개인정보를 제공받은
+              경우 -온라인에서 진행되는 이벤트/행사 등 참여 -서비스 이용
+              과정에서 이용자로부터 수집하는 개인정보 -모바일 앱 이용 과정에서
+              단말기정보(OS, 화면사이즈, 디바이스 아이디), IP주소, 쿠키,
+              방문일시의 정보가 자동으로 생성되어 수집될 수 있습니다.
+              {"\n"}· 개인정보 공유 및 제공 XEEDMINING은 이용자가 서비스
+              이용과정 등에서 따로 동의하는 경우나 법령에 규정된 경우를
+              제외하고는 이용자 개인정보를 위에서 말씀 드린 목적 범위를 초과하여
+              이용하거나 제3자에게 제공 또는 공유하지 않습니다.
+              {"\n"}· 개인정보 제3자 제공 현황 XEEDMINING은 이용자들의
+              개인정보를 수집 당시 동의 받은 범위 내에서만 사용하며, 이용자의
+              사전 동의 없이는 해당 범위를 초과하여 개인정보를 이용하거나 외부에
+              공개 또는 제공하지 않습니다.
+              {"\n"}· 개인정보 보유기간, 파기방법 및 이용기간 이용자 개인정보는
+              이용자로부터 동의를 받은 수집 및 이용목적이 달성된 때에는
+              XEEDMINING 내부 방침 또는 관계 법령에서 정한 일정한 기간 동안
+              보관한 다음 파기합니다. 종이에 출력된 개인정보는 분쇄기로
+              분쇄하거나 소각을 통하여 파기하고, 전자적 파일 형태로 저장된
+              개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여
+              삭제합니다. XEEDMINING이 내부 방침 또는 법령에 따라 보관하는
+              개인정보 및 해당 법령은 아래 표와 같습니다. '이용목적이 달성된
+              때'란 철회요청, 서비스계약 만료, 탈퇴 시를 의미합니다.
+              {"\n"}
+              가. XEEDMINING 내부 방침에 의한 정보보유 사유
+              {"\n"}
+              보존 항목: 부정 이용 기록 보존 이유: 부정 이용 방지 보존 기간:
+              10년
+              {"\n"}
+              보존 항목: 판매 게시물 및 채팅 내용 보존 이유: 거래 관련 사기 방지
+              및 분쟁 해결 보존 기간: 5년
+              {"\n"}
+              나. 관련 법령에 의한 정보보유 사유
+              {"\n"}
+              보존 항목: 계약 또는 청약철회 등에 관한 기록 근거 법령: 전자상거래
+              등에서의 소비자보호에 관한 법률 보존 기간: 5년
+              {"\n"}
+              보존 항목: 대금결제 및 재화 등의 공급에 관한 기록 근거 법령:
+              전자상거래 등에서의 소비자보호에 관한 법률 보존 기간: 5년
+              {"\n"}
+              보존 항목: 소비자의 불만 또는 분쟁처리에 관한 기록 근거 법령:
+              전자상거래 등에서의 소비자보호에 관한 법률 보존 기간: 3년
+              {"\n"}
+              보존 항목: 표시/광고에 관한 기록 근거 법령: 전자상거래 등에서의
+              소비자보호에 관한 법률 보존 기간: 6개월
+              {"\n"}
+              보존 항목: 세법이 규정하는 모든 거래에 관한 장부 및 증빙서류 근거
+              법령: 국세기본법 보존 기간: 5년
+              {"\n"}
+              보존 항목: 전자금융 거래에 관한 기록 근거 법령: 전자금융거래법
+              보존 기간: 5년
+              {"\n"}
+              보존 항목: 서비스 방문기록 근거 법령: 통신비밀보호법 보존 기간:
+              3개월
+              {"\n"}
+              인터넷 접속정보파일 등 개인정보를 자동으로 수집하는 장치의
+              설치·운영 및 그 거부에 관한 사항
+              {"\n"}· 쿠키란? 앱을 운영하는데 이용되는 서버가 이용자의
+              브라우저에 보내는 아주 작은 텍스트 파일로서 이용자 컴퓨터에
+              저장됩니다.
+              {"\n"}· 사용목적? 개인화되고 맞춤화된 서비스를 제공하기 위해서
+              이용자의 정보를 저장하고 수시로 불러오는 쿠키를 사용합니다.
+              이용자가 앱에 방문할 경우 앱 서버는 이용자의 디바이스에 저장되어
+              있는 쿠키의 내용을 읽어 이용자의 환경설정을 유지하고 맞춤화된
+              서비스를 제공하게 됩니다. 쿠키는 이용자가 앱을 방문할 때, 앱
+              사용을 설정한대로 접속하고 편리하게 사용할 수 있도록 돕습니다.
+              또한, 이용자의 앱 방문 기록, 이용 형태를 통해서 최적화된 광고 등
+              맞춤형 정보를 제공하기 위해 활용됩니다.
+              {"\n"}· 이용자 권리 보호 이용자는 언제든지 이용자 개인정보를
+              조회하거나 수정할 수 있으며 가입 해지를 요청할 수도 있습니다. 보다
+              구체적으로는 서비스 내 설정 기능을 통한 변경, 가입 해지를 위해서는
+              서비스 내 운영자 문의란을 통해 문의할 경우도 지체 없이
+              조치하겠습니다.
+              {"\n"}· 개인정보 문의처 사용자가 서비스를 이용하면서 발생하는 모든
+              개인정보보호 관련 문의, 불만, 조언이나 기타 사항은 운영자 문의란을
+              통해 개인정보 보호책임자에게 연락해 주시기 바랍니다. XEEDMINING은
+              사용자 목소리에 귀 기울이고 신속하고 충분한 답변을 드릴 수 있도록
+              최선을 다하겠습니다.
+              {"\n"}· 개인정보처리방침이 변경되는 경우 XEEDMINING은 변경 
+              사항을 게시하며, 변경된 개인정보처리방침은
+              게시한 날로부터 7일 후부터 효력이 발생합니다.
+              {"\n"}
+              공고일자: 2022년 3월 18일 시행일자: 2022년 3월 18일
